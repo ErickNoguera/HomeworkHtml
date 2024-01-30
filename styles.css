@@ -1,0 +1,22 @@
+body {
+    font-family: 'arial', sans-serif;
+    background-color: #f7fafd;
+    color: #181717;
+    margin: 20px;
+}
+
+.lupaClase {
+    width: 20px;
+    height: 20px;
+}
+
+#pokemones{
+    width: 1450px;
+    height: 1000px;
+}
+
+.BotonAzul {
+    background-color: rgb(157, 182, 252);
+    color: black;
+    font-weight: 600;
+}
