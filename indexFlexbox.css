@@ -1,0 +1,29 @@
+.ContenedorPadre div{
+    background-color: rgb(157, 182, 252);
+    text-align: center;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 20px;
+}
+
+
+.ContenedorPadre{
+    display: flex;
+    text-align: center;
+    background-color: aqua;
+    border: 2px solid black;
+    justify-content: space-between;
+}
+
+
+.TituloPrincipal{
+    padding: 40px 40px 40px 40px;
+    margin: 20px;
+    text-align: center;
+    font-size: 60px;
+    line-height: 100px;
+}
+
+.Buscador{
+    text-align: center;
+}
