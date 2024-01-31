@@ -20,8 +20,11 @@
     padding: 40px 40px 40px 40px;
     margin: 20px;
     text-align: center;
-    font-size: 60px;
+    font-size: 100px;
     line-height: 100px;
+    color: rgb(6, 6, 67);
+    font-style: initial;
+
 }
 
 .Buscador{
